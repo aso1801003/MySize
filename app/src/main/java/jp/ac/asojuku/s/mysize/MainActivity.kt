@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    //
+    //リモート反映練習
     override fun onResume(){
         super.onResume()
         val pref = PreferenceManager.getDefaultSharedPreferences(this)
